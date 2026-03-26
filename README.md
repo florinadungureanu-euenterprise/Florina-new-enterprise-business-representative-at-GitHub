@@ -33,7 +33,7 @@ My broader mission is to contribute to a more intelligent and sustainable societ
 
 ---
 
-## How I approach enterprise accounts in the Dutch and EMEA market
+## How I approach enterprise accounts in the EMEA market
 
 I am embedded in the Dutch and European AI and developer ecosystem: active at events like MCP Connect, connected to founders scaling engineering teams, and in regular contact with VCs and corporate innovation leads across the Netherlands and EMEA. This gives me warm access to the exact stakeholders GitHub needs to reach, and the ability to open conversations that do not start with a cold email.
 
